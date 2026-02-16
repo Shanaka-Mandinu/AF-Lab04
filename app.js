@@ -56,3 +56,5 @@ async function myFunction() {
  }
 }
 myFunction();
+
+console.log("\n---> Hello shanaka! <---\n")
